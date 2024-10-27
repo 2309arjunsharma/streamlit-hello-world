@@ -1,0 +1,13 @@
+prefix=C:/workspaces/python-workspaces/streamlit-hello-world/streamlit-helloworld/Library
+exec_prefix=C:/workspaces/python-workspaces/streamlit-hello-world/streamlit-helloworld/Library
+libdir=C:/workspaces/python-workspaces/streamlit-hello-world/streamlit-helloworld/Library/lib
+sharedlibdir=C:/workspaces/python-workspaces/streamlit-hello-world/streamlit-helloworld/Library/lib
+includedir=C:/workspaces/python-workspaces/streamlit-hello-world/streamlit-helloworld/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
