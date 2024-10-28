@@ -1,0 +1,11 @@
+Children in each Section
+A = 38
+B = 39
+C = 41
+D = 40
+E = 38
+F = 37
+G = 35
+H = 37
+I = 35
+J = 32
